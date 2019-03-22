@@ -9,9 +9,13 @@ dungeon debug
 
 control
 Z : zoom
+
 ASWD : move
+
 UP, DOWN : toggle visual
+
 LEFT, RIGHT : toggle algorithm
+
 G : generate
 
 ![image](https://user-images.githubusercontent.com/39853838/54818781-a3673480-4ccc-11e9-82f3-5aba507c10f4.png)
